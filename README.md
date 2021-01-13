@@ -1,9 +1,8 @@
-# minor
+## dialogue flow Chatbot
 
-A new Flutter project.
 
-## Getting Started
+## Introduction
 
-This project is a starting point for a Flutter application.
+ # This Chat Bot is developed using DialogueFlow Api of google   with  Flutter UI.
 
-It contains a bot which has been developed on the framework of dialogflow.
+
